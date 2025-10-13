@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Halo, saya Maula Fajarina K!<br><br>Selamat datang di profil GitHub saya!<br><br>💻 Saya seorang pengembang pemula yang sedang belajar dan berkembang di dunia pemrograman. Saya biasa menggunakan beberapa bahasa berikut dalam proyek dan pembelajaran saya:<br><br>- 🔹 **C/C++** (via Dev C++)<br>- 🔹 **Java**<br>- 🔹 **HTML**<br><br>📱 Jangan ragu untuk terhubung dengan saya di Instagram: [@username_ig](https://instagram.com/username_ig)<br><br>Terima kasih sudah mampir! 🚀<br>
+## 👋 Halo, saya Maula Fajarina!<br><br>Selamat datang di profil GitHub saya!<br><br>💻 Saya seorang pengembang pemula yang sedang belajar dan berkembang di dunia pemrograman. Saya biasa menggunakan beberapa bahasa berikut dalam proyek dan pembelajaran saya:<br><br>- 🔹 **C/C++** (via Dev C++)<br>- 🔹 **Java**<br>- 🔹 **HTML**<br><br>📱 Jangan ragu untuk terhubung dengan saya di Instagram: [@username_ig](https://instagram.com/username_ig)<br><br>Terima kasih sudah mampir! 🚀<br>
 
 
 ## 🌐 Socials:
